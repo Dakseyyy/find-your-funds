@@ -21,7 +21,7 @@ const stats = [
   },
   {
     icon: Timer,
-    value: "3 min",
+    value: "1 min",
     label: "Quick Process",
     description: "Is all it takes to complete your free search",
   },

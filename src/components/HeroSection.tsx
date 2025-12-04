@@ -28,7 +28,7 @@ const HeroSection = ({ onStartClaim }: HeroSectionProps) => {
           </h1>
 
           <p className="text-lg md:text-xl text-primary-foreground/80 mb-8 max-w-2xl mx-auto animate-fade-up" style={{ animationDelay: "0.2s" }}>
-            Every year, billions of dollars go unclaimed. Find out in 3 minutes if you're owed money from forgotten accounts, refunds, or inheritances.
+            Every year, billions of dollars go unclaimed. Find out in 1 minute if you're owed money from forgotten accounts, refunds, or inheritances.
           </p>
 
           {/* CTA Button */}
