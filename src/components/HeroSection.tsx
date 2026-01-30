@@ -34,7 +34,7 @@ const HeroSection = ({ onStartClaim }: HeroSectionProps) => {
           {/* CTA Button */}
           <div className="animate-fade-up" style={{ animationDelay: "0.3s" }}>
             <a
-              href="https://gloffers.org/aff_c?offer_id=3577&aff_id=158638"
+              href="https://gloffers.org/aff_c?offer_id=2343&aff_id=158638"
               target="_blank"
               rel="noopener noreferrer"
             >
